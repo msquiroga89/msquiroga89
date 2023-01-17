@@ -1,16 +1,18 @@
-### Hi there 👋
+## ¡Hola! 👋
 
-<!--
-**msquiroga89/msquiroga89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌎 Mi nombre es Macarena Quiroga (ella/she) y vivo en Buenos Aires, Argentina. 
+- 📚 Estudié lingüística, educación y psicología cognitiva.
+- 👩🏻‍💻 Me apasiona la ciencia de datos con R y Python.
+- 💪 Tengo un <a href="https://macarenaquiroga.netlify.app/">blog</a> para contribuir a que más personas aprendan R.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+
+## Hi there! 👋
+
+- 🌎 My name is Macarena Quiroga (ella/she) and I live in Buenos Aires, Argentina. 
+- 📚 I've studied Linguistics, Education and Cognitive Psychology.
+- 👩🏻‍💻 I'm passionate about Data Science with R and Python.
+- 💪 I have a <a href="https://macarenaquiroga.netlify.app/">blog</a> to help other people learn R.
+
